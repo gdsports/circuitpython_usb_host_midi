@@ -30,7 +30,7 @@ turn powers the USB MIDI device.
 ## Source code
 
 * circuitpython/cpmidineo.py
-* usbhostcopro/MIDIUARTUSBH.ino
+* [https://github.com/gdsports/usbhostcopro/](https://github.com/gdsports/usbhostcopro/)
 
 ### CircuitPython code
 
@@ -106,6 +106,8 @@ RX pin. Both UARTs runs 115,200 bits/sec.
 ## Related projects/references
 
 [MIDI DIN to MIDI USB Host Converter](https://github.com/gdsports/midiuartusbh)
+
+[USB Host Co-Processor](https://github.com/gdsports/usbhostcopro)
 
 [MIDI Messages](https://www.midi.org/specifications/item/table-1-summary-of-midi-message)
 
